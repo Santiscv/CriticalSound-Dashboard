@@ -1,0 +1,12 @@
+.bg-body-tertiary {
+    background-image: linear-gradient(to right, #5b1df9, #27252e, #15131a, #050408, black) !important; /* Cambia este color por el que prefieras */
+}
+
+
+.navbar {
+    padding-right: 200px;
+}
+
+.navbar-brand {
+    margin-right: 15px;
+}
