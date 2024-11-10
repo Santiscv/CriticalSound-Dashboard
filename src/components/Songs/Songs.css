@@ -1,0 +1,9 @@
+
+.cell-description {
+    padding: 20px 0; 
+    max-height: 80px; 
+    overflow-y: auto; 
+    font-size: 0.9rem; 
+    line-height: 1.2;
+
+}

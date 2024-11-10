@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+@import "primereact/resources/themes/lara-light-indigo/theme.css";
+@import "primereact/resources/primereact.min.css";                 
+@import "primeicons/primeicons.css";
+@import 'bootstrap/dist/css/bootstrap.css';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Signika Negative", sans-serif;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/564x/a8/ab/6c/a8ab6cee1c4076b4212ff4989b9ea955.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh;
+    margin: 0;
+}
